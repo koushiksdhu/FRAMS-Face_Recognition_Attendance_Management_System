@@ -9,7 +9,7 @@ To use the Face Recognition Attendance Management System, follow the steps below
 1. Clone the repository to your local machine:
 
    ```
-   git clone https://github.com/your-username/face-attendance-management.git
+   git clone https://github.com/koushiksdhu/FRAMS-Face_Recognition_Attendance_Management_System.git
    ```
 
 2. Make sure you have Python 3.x installed on your system.
