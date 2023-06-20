@@ -1,6 +1,6 @@
 # Face Recognition Attendance Management System
 
-The Face Recognition Attendance Management System is a Python-based application that utilizes computer vision techniques, including OpenCV (cv2), Haar cascade classifiers, and the face_recognition dataset module. The system enables real-time face detection and recognition from a video stream and automatically marks attendance in an Excel sheet, including the date and timestamp.
+The Face Recognition Attendance Management System is a Python-based application that utilizes computer vision techniques, including OpenCV (cv2), Haar cascade classifiers, and the face_recognition module. The system enables real-time face detection and recognition from a video stream and automatically marks attendance in an Excel sheet, including the date and timestamp.
 
 ## Installation
 
